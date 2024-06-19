@@ -3,7 +3,9 @@
 // let arr = [ "r", 12]
 
 
-let arr = ["Rahul", 12345, [], true, "Pooja"];
+let arr = [ "Rahul", 12345, [], true, "Pooja" ];
+
+
 //index
 //0
 
